@@ -1,0 +1,21 @@
+# Usage data - never commit personal usage logs
+usage-log.jsonl
+*.jsonl
+
+# Runtime state files
+claude-usage-state.json
+claude-usage-notified.json
+
+# Settings backups created by installer
+settings.json.bak
+
+# Generated dashboard HTML
+claude-usage-dashboard.html
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+node_modules/
