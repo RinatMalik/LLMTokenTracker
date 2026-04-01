@@ -1,3 +1,6 @@
+
+![Clause Usage Tracker](https://github.com/user-attachments/assets/d3b8db89-ada5-4ebe-98a4-c844665e9c96)
+
 # Claude Token Tracker
 
 Track your Claude Code token usage in real time. Get Windows desktop notifications before you hit your rate limits, and analyse your usage patterns to find the best times to work.
